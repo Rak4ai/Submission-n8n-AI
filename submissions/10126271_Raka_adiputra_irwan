@@ -23,11 +23,11 @@
 
 ## 💡 Ringkasan & Solusi Otomasi (Workflow Highlights)
 Tuliskan penjelasan singkat mengenai alur kerja yang telah kamu bangun:
-- **Tujuan Workflow**: (Menjelaskan masalah apa yang diselesaikan oleh otomasi n8n ini)
-- **Node Kunci yang Digunakan**: (Contoh: Webhook, HTTP Request, OpenAI Chat Model, Google Sheets, Gmail, Code Node)
-- **Logika Alur Kerja**: (Ceritakan secara ringkas bagaimana data diterima, diproses, dan dikirimkan ke target output)
+- **Tujuan Workflow**: (Workflow n8n ini bertujuan untuk mengotomatisasi proses pengolahan data agar pekerjaan menjadi lebih cepat, efisien, dan mengurangi kesalahan akibat proses manual. Dengan menghubungkan beberapa aplikasi atau layanan, data dapat diproses dan dikirim secara otomatis sesuai alur yang telah dibuat.)
+- **Node Kunci yang Digunakan**: (webhook)
+- **Logika Alur Kerja**: (Data diterima melalui trigger, kemudian diproses oleh node sesuai aturan yang telah ditentukan. Setelah itu, hasil pengolahan dikirim secara otomatis ke layanan atau aplikasi tujuan sebagai output.)
 
 ---
 
 ## 🌟 Refleksi & Kesan Belajar
-(Ceritakan pengalaman, kendala menarik yang berhasil kamu selesaikan, atau pesan kesan selama mengikuti n8n AI & Automation Study Jam bersama GDGoC Widyatama)
+sangat menarik karena ini pengalaman baru dan ilmu baru untuk saya ,untuk kenda sih paling karena saya pertama kali menggunakan n8n jadi agak bingung saja
